@@ -47,8 +47,6 @@ htmlcov/
 *.ipynb_checkpoints
 
 # Data, models, checkpoints, logs
-/data/
-data/
 datasets/
 raw_data/
 processed_data/
@@ -144,12 +142,9 @@ htmlcov/
 *.ipynb_checkpoints
 
 # Data, models, checkpoints, logs
-/data/
-data/
 datasets/
 raw_data/
 processed_data/
-models/
 checkpoints/
 checkpoints/*
 *.ckpt
