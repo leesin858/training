@@ -1,0 +1,193 @@
+# General Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+
+# Package / build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Test / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Data, models, checkpoints, logs
+/data/
+data/
+datasets/
+raw_data/
+processed_data/
+models/
+checkpoints/
+checkpoints/*
+*.ckpt
+*.pth
+*.pt
+logs/
+*.log
+tensorboard/
+runs/
+wandb/
+.mlflow/
+.experiments/
+
+# PyTorch / TorchScript artifacts
+torch_model.pt
+*.ts
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+
+# Type checking / cache
+.mypy_cache/
+.mypy_cache/*
+
+# Cython debug
+cython_debug/
+
+# Misc temporary / compiled files
+*.o
+*.obj
+*.so
+*.dylib
+
+# Local config
+local_settings.py
+*.local
+```# filepath: /root/autodl-tmp/code/training/.gitignore
+# General Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+
+# Package / build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Test / coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Data, models, checkpoints, logs
+/data/
+data/
+datasets/
+raw_data/
+processed_data/
+models/
+checkpoints/
+checkpoints/*
+*.ckpt
+*.pth
+*.pt
+logs/
+*.log
+tensorboard/
+runs/
+wandb/
+.mlflow/
+.experiments/
+
+# PyTorch / TorchScript artifacts
+torch_model.pt
+*.ts
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
+.env.*
+
+# Type checking / cache
+.mypy_cache/
+.mypy_cache/*
+
+# Cython debug
+cython_debug/
+
+# Misc temporary / compiled files
+*.o
+*.obj
+*.so
+*.dylib
+
+# Local config
+local_settings.py
+*.local
